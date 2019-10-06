@@ -160,15 +160,16 @@ body{
     width: 1960px;
     height: 60px;
     background-color: #778a50;
-    justify-content: flex-start;
+    
+    max-width:  center;
 }
 .f01{
     
-    padding-left: 480px;
-    padding-right: 479px;
+    text-align: center;
     padding-bottom: 23px;
     padding-top: 23px;
     color: #edf2c5;
     font-size: 12px; 
 
+}
 }
